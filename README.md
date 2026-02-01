@@ -1,4 +1,4 @@
-\# 🏥 Hospital Management System
+# 🏥 Hospital Management System
 
 
 
@@ -6,7 +6,7 @@ A comprehensive, real-time hospital management system built with Spring Boot and
 
 
 
-\## 📁 Project Structure
+## 📁 Project Structure
 
 hospital-management-system/
 
@@ -32,11 +32,11 @@ hospital-management-system/
 
 
 
-\## 🚀 Getting Started
+## 🚀 Getting Started
 
 
 
-\### Prerequisites
+### Prerequisites
 
 \- Java 17
 
@@ -50,7 +50,7 @@ hospital-management-system/
 
 
 
-\### Installation
+### Installation
 
 1\. Clone the repository
 
@@ -62,7 +62,7 @@ hospital-management-system/
 
 
 
-\## 🔧 Technologies Used
+## 🔧 Technologies Used
 
 
 
@@ -82,7 +82,7 @@ hospital-management-system/
 
 
 
-\### Infrastructure
+### Infrastructure
 
 \- \*\*Docker\*\* - Containerization
 
@@ -92,7 +92,7 @@ hospital-management-system/
 
 
 
-\## 📚 Learning Path
+## 📚 Learning Path
 
 
 
@@ -112,7 +112,7 @@ This project follows a structured learning approach:
 
 
 
-\## 👥 Roles \& Permissions
+## 👥 Roles \& Permissions
 
 
 
@@ -126,7 +126,7 @@ This project follows a structured learning approach:
 
 
 
-\## 📄 License
+## 📄 License
 
 
 
